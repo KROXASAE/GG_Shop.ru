@@ -7,8 +7,10 @@
     <title>GG_SHOP!</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./media.css">
+    <link rel="stylesheet" href="./Background.css">
 </head>
 <body>
+    <body bgcolor="0 0 0"></body>
     <nav>
         <a href="">У Нас</a>
         <a href="">Команда</a>
@@ -26,6 +28,7 @@
         <!-- <h2>Лягушачья Команда</h2>
         <p>Наш девиз 4 слова "Ква ква ква ква... "</p> -->
         <h1>GG_SHOP!</h1>
+        <h1>Зимний сезон!</h1>
         <div class="member">
             <img src="game chair.jpg" alt="">
             <h3>Gamer ChAiR</h3>
