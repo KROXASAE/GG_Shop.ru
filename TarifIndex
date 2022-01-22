@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GG_SHOP!</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./media.css">
+</head>
+<body>
+    <nav>
+        <a href="">У Нас</a>
+        <a href="">Команда</a>
+        <!-- <a href="">Цены</a> -->
+        <a href="">Контакты</a>
+                <input type="text" placeholder="Поиск товаров...">
+                <a href="">Найти!</a>
+            </form>
+        </section>
+    </nav>
+    <!-- <header>
+        <a href="">Подробнее...</a>
+    </header> -->
+    <section class="team" id="team">
+        <!-- <h2>Лягушачья Команда</h2>
+        <p>Наш девиз 4 слова "Ква ква ква ква... "</p> -->
+        <h1>GG_SHOP!</h1>
+        <h1>У вас подключён тариф.</h1>
+        <div class="member">
+            <img src="game chair.jpg" alt="">
+            <h3>Gamer ChAiR</h3>
+            <p class="position">50$</p>
+            <h2>Заказов: 50</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+        <div class="member">
+            <img src="Myiska.jpg" alt="">
+            <h3>{Gamer} Myiska</h3>
+            <p class="position">2$</p>
+            <h2>Заказов: 3</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+        <div class="member">
+            <img src="klava.jpg" alt="">
+            <h3>Gamer klava</h3>
+            <p class="position">100$</p>
+            <h2>Заказов: 199</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+        <div class="member">
+            <img src="kovryik2000.jpg" alt="">
+            <h3>{Gamer} kovryik</h3>
+            <p class="position">0.1$</p>
+            <h2>Заказов: 1</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+
+        
+        <div class="member">
+            <img src="Monitor1.jpg" alt="">
+            <h3>{Gamer} Monitor</h3>
+            <p class="position">80$</p>
+            <h2>Заказов: 9</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+        <div class="member">
+            <img src="Monitor2.jpg" alt="">
+            <h3>Gamer Monitor⚜</h3>
+            <p class="position">1100$</p>
+            <h2>Заказов: 11</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+        <div class="member">
+            <img src="lagyxaBochkax.jpg" alt="">
+            <h3>Avtor Saita</h3>
+            <p class="position">10000000000000000$</p>
+            <h2>Заказов: 0</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+        <div class="member">
+            <img src="tetradka.jpg" alt="">
+            <h3>Tetrad (legendary)</h3>
+            <p class="position">0.6$</p>
+            <h2>Заказов: 522</h2>
+            <!-- <p>
+               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
+            </p> -->
+            <button><a href="BuyEning2.html">Купить</a></button>
+            <button><a href="Zakaz2.html">Заказать</a></button>
+        </div>
+    </section>
+    <section class="tarif" id="cost">
+        <h2>
+            GG Тариф:
+        </h2>
+        <!-- <p>Платите нам сколько хотите!</p> -->
+        <ul>
+            <li class="name_black">Королевский tariF</li>
+            <li>50 рублей ! ! !</li>
+            <li>50 Книжек автору по матиматике ! ! !</li>
+            <li>50 заданий автору по русскому языку !!!</li>
+            <!-- <li>И ещё важный пункт</li> -->
+            <li class="cost">1$ <span>в день</span></li>
+            <div class="member">
+            <button>Куплено!</button>
+            </div>
+        </ul> 
+        <!-- <ul>
+            <li class="name_yellow">Паук тариф</li>
+            <li>20 мух</li>
+            <li>20 комаров</li>
+            <li>20 молей</li>
+            <li>И ещё важный пункт</li>
+            <li class="cost">0.5$ <span>в день</span></li>
+            <li class="order"> <button>Buy</button> </li>
+        </ul>
+        <ul>
+            <li class="name_black">Королевский tariF</li>
+            <li>30 рублей</li>
+            <li>30 комаров</li>
+            <li>30 заданий автору по русскому языку !!!</li>
+            <li>И ещё важный пункт</li>
+            <li class="cost">1$ <span>в день</span></li>
+            <li class="order"> <button>Buy</button> </li>
+        </ul> -->
+    </section>
+    <section class="contacts" id="contacts">
+        <h2>
+            Контакты
+        </h2>
+        <p>Пишите нам!</p>
+
+        <p>Сайт ещё hедОделаН ! ! /</p> 
+
+        <!-- <p class="contacts_info adres">Улица Пушкина, дом Колотушкинна.</p> -->
+        <!-- <p class="contacts_info telephone">Телефон: <a href="tel:+78005553535">+7 (800) 555-35-35</a></p> -->
+
+        <!-- <p class="contacts_info email">Email: <a href="mailto:lyaguchka@gmail.com">lyaguchka@gmail.com</a></p> -->
+        <form action="">
+            <input type="text" placeholder="Имя">
+            <input type="email" placeholder="email">
+            <input type="text" placeholder="Тема">
+            <input type="text" placeholder="Сообщение">
+            <button type="submit">Отправить сообщение</button>
+        </form>
+    </section>
+    <footer>
+        Все права защищены © Michael Krokhin
+    </footer>
+    <div>Version: 3.0.0</div>
+</body>
+</html>
