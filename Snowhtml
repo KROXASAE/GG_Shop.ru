@@ -1,21 +1,22 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>admin strock</title>
+    <title>GG_SHOP! Snow Season!</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="./media.css">
     <link rel="stylesheet" href="./Background.css">
 </head>
 <body>
-    <div>Version: 3.7.7</div>
-    <footer>
-        Все права защищены © Michael Krokhin
-    </footer>
+    <!-- <body bgcolor="0 0 0"></body> -->
     <nav>
+        <!-- <a href="">У Нас</a>
+        <a href="">Команда</a>
+        <a href="">Цены</a> -->
         <a href="Praff.html">Правила!!!</a>
+                <input type="text" placeholder="Поиск товаров...">
+                <a href="">Найти!</a>
             </form>
         </section>
     </nav>
@@ -27,7 +28,9 @@
         <p>Наш девиз 4 слова "Ква ква ква ква... "</p> -->
         <hr>
         <h1>GG_SHOP!</h1>
-        <h1>aVersion: 0.0.2</h1>
+        <div style="color:rgb(26, 47, 168);">
+        <h1>Зимний сезон!</h1>
+        </div>
         <div class="member">
             <img src="game chair.jpg" alt="">
             <h3>Gamer ChAiR</h3>
@@ -112,8 +115,10 @@
         </div>
         <hr>
         <div class="text">
+            <div style="color:rgb(26, 47, 168);">
             <h1>Зимние товары!</h1>
             <h1>До 15.02.2022</h1>
+            </div>
         </div>
         <div class="member">
             <img src="Korsar1.jpg" alt="">
@@ -188,119 +193,10 @@
             <button><a href="TakeIT.html">Забрать</a></button>
         </div>
     </section>
-
-
-
-    <div class="text">
-        <h1>New Towar</h1>
-        <!-- <h1>До 15.02.2022</h1> -->
-    </div>
-    <div class="member">
-        <img src="game chair.jpg" alt="">
-        <h3>Gamer chair</h3>
-        <p class="position">50$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <div class="member">
-        <img src="RAZERMM.jpg" alt="">
-        <h3>Gamer Myiska</h3>
-        <p class="position">200$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <div class="member">
-        <img src="klava.jpg" alt="">
-        <h3>Gamer klava Girl</h3>
-        <p class="position">400$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <div class="member">
-        <img src="RAZERKK.jpg" alt="">
-        <h3>Gamer klava</h3>
-        <p class="position">300$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <div class="member">
-        <img src="RAZERKOW.jpg" alt="">
-        <h3>Gamer kovryik</h3>
-        <p class="position">300$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-
-    
-    <div class="member">
-        <img src="Monitor1.jpg" alt="">
-        <h3>ASUS Monitor</h3>
-        <p class="position">80$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <div class="member">
-        <img src="Monitor2.jpg" alt="">
-        <h3>Gamer Monitor⚜</h3>
-        <p class="position">1100$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <!-- <div class="member">
-        <img src="lagyxaBochkax.jpg" alt="">
-        <h3>Avtor Saita</h3>
-        <p class="position">10000000000000000$</p>
-        <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p>
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div> -->
-    <div class="member">
-        <img src="tetradka.jpg" alt="">
-        <h3>Tetrad (legendary)</h3>
-        <p class="position">0.6$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
-    <div class="member">
-        <img src="MyTech.jpg" alt="">
-        <h3>Ручка "My tech" Синяя паста</h3>
-        <p class="position">0.1$</p>
-        <!-- <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia, sequi.
-        </p> -->
-        <button><a href="Purchase.html">Купить</a></button>
-        <button><a href="Zakaz.html">Заказать</a></button>
-    </div>
     <hr>
     <section class="tarif" id="cost">
         <h2>
-            BLOCK GG Тариф:
+            GG Тариф:
         </h2>
         <!-- <p>Платите нам сколько хотите!</p> -->
         <ul>
@@ -313,8 +209,10 @@
             <li>+ У вас будет написано сколько раз заказали все товары!</li>
             <div class="member">
             <!-- <button><a href="BuyTarifing.html">Купить!</a></button> -->
+            <div style="color:rgb(26, 168, 26);">
             <li>Цена: 1$ В день</li>
-            <button>BLOCK</button>
+            </div>
+            <button><a href="TarifBuENG.html">FREE!</a></button>
             </div>
         </ul> 
         <!-- <ul>
@@ -338,32 +236,28 @@
     </section>
     <section class="contacts" id="contacts">
         <h2>
-            Contacts
+            Контакты
         </h2>
-        <p class="contacts_info adres">Улица: BLOCK, дом: BLOCK.</p>
-        <p class="contacts_info telephone">Телефон: <a href="">NO INF</a></p>
-        <p class="contacts_info email">Email: <a href="">NO INF</a></p>
+        <p>Пишите нам!</p>
+        <p>С новым годом!</p>
+
+        <!-- <p>Сайт ещё hедОделаН ! ! /</p>  -->
+
+        <!-- <p class="contacts_info adres">Улица Пушкина, дом Колотушкинна.</p> -->
+        <!-- <p class="contacts_info telephone">Телефон: <a href="tel:+78005553535">+7 (800) 555-35-35</a></p> -->
+
+        <!-- <p class="contacts_info email">Email: <a href="mailto:lyaguchka@gmail.com">lyaguchka@gmail.com</a></p> -->
         <form action="">
             <input type="text" placeholder="Имя">
             <input type="email" placeholder="email">
-            <input type="text" placeholder="Тема">
-            <input type="text" placeholder="Сообщение">
-            <button type="submit">Отправить сообщение ADMIN PRAF</button>
-        </form>
-    </section>
-    <section class="contacts" id="contacts">
-        <h2>
-            Contacts admin
-        </h2>
-        <form action="">
-            <input type="text" placeholder="Имя">
-            <input type="text" placeholder="Фамилия">
-            <input type="email" placeholder="email">
-            <input type="email" placeholder="you phone">
             <input type="text" placeholder="Тема">
             <input type="text" placeholder="Сообщение">
             <button type="submit">Отправить сообщение</button>
         </form>
     </section>
+    <footer>
+        Все права защищены © Michael Krokhin
+    </footer>
+    <div>Version: 3.5.7</div>
 </body>
 </html>
